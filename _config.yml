@@ -1,0 +1,28 @@
+name: nuncharoen
+favicon: null
+layout_spectrum: 0.4077448542229831
+typography_spectrum: 0.4750901898369193
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2943407725542784
+  lightness: 0.36575408070348203
+  saturation: 0.4898177364375442
+  rhythmicContrast: 0.347655707038939
+purpose: []
